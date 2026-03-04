@@ -163,6 +163,13 @@ The system acts as a **decision-support tool**, not a replacement for human judg
 - Analytics dashboard for recruiters
 
 ---
+## Interface Preview
+
+### Recruiter Dashboard
+![Recruiter](screenshots/recruiter-dashboard.png)
+
+### Applicant Dashboard
+![Applicant](screenshots/applicant-dashboard.png)
 
 ## Author
 
